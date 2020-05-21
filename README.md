@@ -16,9 +16,13 @@ Information on the Hermes Lite 2 can be found on these web sites:
 
   https://github.com/softerhardware/Hermes-Lite2/wiki
 
+--
 
-Modified by:  rhn@nicholson.com  N6YWU  2019-10-20
+Modified by:  rhn@nicholson.com  N6YWU  
 
 http://www.nicholson.com/rhn/
+
+No warrantees implied.
+
 
 --
