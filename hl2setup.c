@@ -137,7 +137,7 @@ void testLoopPrint()
     lastMA    =  c;
 }
 
-int testLoop()
+void testLoop()
 {
         int i;
         for(i = 0; i< ( 1*1000*60); i++) {
