@@ -11,7 +11,6 @@ else
 ifeq ($(OS), Linux)
 	CC  = cc
 	LL = -lm
-	STD = -std=c99
 else
 	$(error OS not detected)
 endif
